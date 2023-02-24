@@ -1,0 +1,17 @@
+.click {
+  height: 50px;
+  width: 50px;
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+
+.show {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(196, 19, 19);
+  display: block;
+}
+
+.appear {
+  display: none;
+}
